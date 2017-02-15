@@ -1,2 +1,0 @@
-# pywar
-Python Warrior Stuff
